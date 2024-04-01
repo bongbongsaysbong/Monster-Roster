@@ -1,0 +1,20 @@
+[
+  {
+    "condition": "minecraft:value_check",
+    "value": {
+      "type": "minecraft:score",
+      "target": {
+        "type": "minecraft:fixed",
+        "name": "#sanguine.blood_moon.phase"
+      },
+      "score": "sanguine.dummy"
+    },
+    "range": {
+      "min": 1
+    }
+  },
+  {
+    "condition": "minecraft:random_chance",
+    "chance": 0.1
+  }
+]

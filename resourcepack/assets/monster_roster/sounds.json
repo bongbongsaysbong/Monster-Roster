@@ -1,0 +1,280 @@
+{
+  "entity.armantis.ambient": {
+    "subtitle": "subtitles.monster_roster.entity.armantis.ambient",
+    "sounds": [
+      {"name": "monster_roster:entity/armantis/ambient0", "pitch": 0.95},
+      {"name": "monster_roster:entity/armantis/ambient0", "pitch": 1.0},
+      {"name": "monster_roster:entity/armantis/ambient0", "pitch": 1.05},
+      {"name": "monster_roster:entity/armantis/ambient1", "pitch": 0.95},
+      {"name": "monster_roster:entity/armantis/ambient1", "pitch": 1.0},
+      {"name": "monster_roster:entity/armantis/ambient1", "pitch": 1.05},
+      {"name": "monster_roster:entity/armantis/ambient2", "pitch": 0.95},
+      {"name": "monster_roster:entity/armantis/ambient2", "pitch": 1.0},
+      {"name": "monster_roster:entity/armantis/ambient2", "pitch": 1.05},
+      {"name": "monster_roster:entity/armantis/ambient3", "pitch": 0.95},
+      {"name": "monster_roster:entity/armantis/ambient3", "pitch": 1.0},
+      {"name": "monster_roster:entity/armantis/ambient3", "pitch": 1.05}
+    ]
+  },
+  "entity.armantis.hurt": {
+    "subtitle": "subtitles.monster_roster.entity.armantis.hurt",
+    "sounds": [
+      {"name": "monster_roster:entity/armantis/hurt0", "pitch": 0.95},
+      {"name": "monster_roster:entity/armantis/hurt0", "pitch": 1.0},
+      {"name": "monster_roster:entity/armantis/hurt0", "pitch": 1.05},
+      {"name": "monster_roster:entity/armantis/hurt1", "pitch": 0.95},
+      {"name": "monster_roster:entity/armantis/hurt1", "pitch": 1.0},
+      {"name": "monster_roster:entity/armantis/hurt1", "pitch": 1.05},
+      {"name": "monster_roster:entity/armantis/hurt2", "pitch": 0.95},
+      {"name": "monster_roster:entity/armantis/hurt2", "pitch": 1.0},
+      {"name": "monster_roster:entity/armantis/hurt2", "pitch": 1.05}
+    ]
+  },
+  "entity.armantis.death": {
+    "subtitle": "subtitles.monster_roster.entity.armantis.death",
+    "sounds": [
+      {"name": "monster_roster:entity/armantis/death0", "pitch": 0.95},
+      {"name": "monster_roster:entity/armantis/death0", "pitch": 1.0},
+      {"name": "monster_roster:entity/armantis/death0", "pitch": 1.05},
+      {"name": "monster_roster:entity/armantis/death1", "pitch": 0.95},
+      {"name": "monster_roster:entity/armantis/death1", "pitch": 1.0},
+      {"name": "monster_roster:entity/armantis/death1", "pitch": 1.05}
+    ]
+  },
+  "entity.armantis.anger": {
+    "subtitle": "subtitles.monster_roster.entity.armantis.anger",
+    "sounds": [
+      "monster_roster:entity/armantis/anger"
+    ]
+  },
+  "entity.armantis.calm": {
+    "subtitle": "subtitles.monster_roster.entity.armantis.calm",
+    "sounds": [
+      "monster_roster:entity/armantis/calm"
+    ]
+  },
+  "entity.armantis.leap": {
+    "subtitle": "subtitles.monster_roster.entity.armantis.leap",
+    "sounds": [
+      {"name": "monster_roster:entity/armantis/leap0", "pitch": 0.95},
+      {"name": "monster_roster:entity/armantis/leap0", "pitch": 1.0},
+      {"name": "monster_roster:entity/armantis/leap0", "pitch": 1.05},
+      {"name": "monster_roster:entity/armantis/leap1", "pitch": 0.95},
+      {"name": "monster_roster:entity/armantis/leap1", "pitch": 1.0},
+      {"name": "monster_roster:entity/armantis/leap1", "pitch": 1.05}
+    ]
+  },
+  "entity.armantis.attack": {
+    "subtitle": "subtitles.monster_roster.entity.armantis.attack",
+    "sounds": [
+      {"name": "monster_roster:entity/armantis/attack0", "pitch": 0.95},
+      {"name": "monster_roster:entity/armantis/attack0", "pitch": 1.0},
+      {"name": "monster_roster:entity/armantis/attack0", "pitch": 1.05},
+      {"name": "monster_roster:entity/armantis/attack1", "pitch": 0.95},
+      {"name": "monster_roster:entity/armantis/attack1", "pitch": 1.0},
+      {"name": "monster_roster:entity/armantis/attack1", "pitch": 1.05},
+      {"name": "monster_roster:entity/armantis/attack2", "pitch": 0.95},
+      {"name": "monster_roster:entity/armantis/attack2", "pitch": 1.0},
+      {"name": "monster_roster:entity/armantis/attack2", "pitch": 1.05}
+    ]
+  },
+  "entity.armantis.step": {
+    "subtitle": "subtitles.block.generic.footsteps",
+    "sounds": [
+      {"name": "monster_roster:entity/armantis/step0", "volume": 0.25},
+      {"name": "monster_roster:entity/armantis/step1", "volume": 0.25},
+      {"name": "monster_roster:entity/armantis/step2", "volume": 0.25},
+      {"name": "monster_roster:entity/armantis/step3", "volume": 0.25},
+      {"name": "monster_roster:entity/armantis/step4", "volume": 0.25}
+    ]
+  },
+  "entity.endermite.attack": {
+    "subtitle": "subtitles.monster_roster.entity.endermite.attack",
+    "sounds": [
+      "monster_roster:entity/endermite/attack0",
+      "monster_roster:entity/endermite/attack1",
+      "monster_roster:entity/endermite/attack2"
+    ]
+  },
+  "entity.silverfish.attack": {
+    "subtitle": "subtitles.monster_roster.entity.silverfish.attack",
+    "sounds": [
+      "monster_roster:entity/silverfish/attack0",
+      "monster_roster:entity/silverfish/attack1",
+      "monster_roster:entity/silverfish/attack2"
+    ]
+  },
+  "entity.zombie.attack": {
+    "subtitle": "subtitles.monster_roster.entity.zombie.attack",
+    "sounds": [
+      "monster_roster:entity/zombie/attack0",
+      "monster_roster:entity/zombie/attack1",
+      "monster_roster:entity/zombie/attack2",
+      "monster_roster:entity/zombie/attack3"
+    ]
+  },
+  "entity.zombie_villager.attack": {
+    "subtitle": "subtitles.monster_roster.entity.zombie_villager.attack",
+    "sounds": [
+      "monster_roster:entity/zombie_villager/attack0",
+      "monster_roster:entity/zombie_villager/attack1",
+      "monster_roster:entity/zombie_villager/attack2"
+    ]
+  },
+  "entity.husk.attack": {
+    "subtitle": "subtitles.monster_roster.entity.husk.attack",
+    "sounds": [
+      "monster_roster:entity/husk/attack0",
+      "monster_roster:entity/husk/attack1",
+      "monster_roster:entity/husk/attack2"
+    ]
+  },
+  "entity.drowned.attack": {
+    "subtitle": "subtitles.monster_roster.entity.drowned.attack",
+    "sounds": [
+      "monster_roster:entity/drowned/attack0",
+      "monster_roster:entity/drowned/attack1",
+      "monster_roster:entity/drowned/attack2",
+      "monster_roster:entity/drowned/attack3"
+    ]
+  },
+  "entity.piglin.attack": {
+    "subtitle": "subtitles.monster_roster.entity.piglin.attack",
+    "sounds": [
+      "monster_roster:entity/piglin/attack0",
+      "monster_roster:entity/piglin/attack1",
+      "monster_roster:entity/piglin/attack2"
+    ]
+  },
+  "entity.zombified_piglin.attack": {
+    "subtitle": "subtitles.monster_roster.entity.zombified_piglin.attack",
+    "sounds": [
+      "monster_roster:entity/zombified_piglin/attack0",
+      "monster_roster:entity/zombified_piglin/attack1",
+      "monster_roster:entity/zombified_piglin/attack2"
+    ]
+  },
+  "entity.enderman.attack": {
+    "subtitle": "subtitles.monster_roster.entity.enderman.attack",
+    "sounds": [
+      "monster_roster:entity/enderman/attack0",
+      "monster_roster:entity/enderman/attack1",
+      "monster_roster:entity/enderman/attack2"
+    ]
+  },
+  "entity.vindicator.attack": {
+    "subtitle": "subtitles.monster_roster.entity.vindicator.attack",
+    "sounds": [
+      "monster_roster:entity/vindicator/attack0",
+      "monster_roster:entity/vindicator/attack1",
+      "monster_roster:entity/vindicator/attack2",
+      "monster_roster:entity/vindicator/attack3"
+    ]
+  },
+  "entity.wither_skeleton.attack": {
+    "subtitle": "subtitles.monster_roster.entity.wither_skeleton.attack",
+    "sounds": [
+      "monster_roster:entity/wither_skeleton/attack0",
+      "monster_roster:entity/wither_skeleton/attack1",
+      "monster_roster:entity/wither_skeleton/attack2",
+      "monster_roster:entity/wither_skeleton/attack3"
+    ]
+  },
+  "entity.spider.attack": {
+    "subtitle": "subtitles.monster_roster.entity.spider.attack",
+    "sounds": [
+      "monster_roster:entity/spider/attack0",
+      "monster_roster:entity/spider/attack1",
+      "monster_roster:entity/spider/attack2"
+    ]
+  },
+  "entity.cave_spider.attack": {
+    "subtitle": "subtitles.monster_roster.entity.cave_spider.attack",
+    "sounds": [
+      "monster_roster:entity/cave_spider/attack0",
+      "monster_roster:entity/cave_spider/attack1",
+      "monster_roster:entity/cave_spider/attack2"
+    ]
+  },
+  "entity.cave_spider.death": {
+    "subtitle": "subtitles.monster_roster.entity.cave_spider.death",
+    "sounds": [
+      "monster_roster:entity/cave_spider/death0",
+      "monster_roster:entity/cave_spider/death1"
+    ]
+  },
+  "entity.cave_spider.ambient": {
+    "subtitle": "subtitles.monster_roster.entity.cave_spider.ambient",
+    "sounds": [
+      "monster_roster:entity/cave_spider/idle0",
+      "monster_roster:entity/cave_spider/idle1"
+    ]
+  },
+  "entity.cave_spider.hurt": {
+    "subtitle": "subtitles.monster_roster.entity.cave_spider.hurt",
+    "sounds": [
+      "monster_roster:entity/cave_spider/hurt0",
+      "monster_roster:entity/cave_spider/hurt1"
+    ]
+  },
+  "entity.spider.ambient": {
+    "sounds": [
+      "mob/spider/say1",
+      "mob/spider/say2",
+      "mob/spider/say3",
+      "mob/spider/say4"
+    ],
+    "subtitle": "subtitles.entity.spider.ambient"
+  },
+  "entity.spider.death": {
+    "sounds": [
+      "mob/spider/death"
+    ],
+    "subtitle": "subtitles.entity.spider.death"
+  },
+  "entity.spider.hurt": {
+    "sounds": [
+      "mob/spider/say1",
+      "mob/spider/say2",
+      "mob/spider/say3",
+      "mob/spider/say4"
+    ],
+    "subtitle": "subtitles.entity.spider.hurt"
+  },
+  "entity.vex.vanish": {
+    "subtitle": "subtitles.monster_roster.entity.vex.vanish",
+    "sounds": [
+      "monster_roster:entity/vex/vanish0",
+      "monster_roster:entity/vex/vanish1",
+      "monster_roster:entity/vex/vanish2"
+    ]
+  },
+  "entity.vex.attack": {
+    "subtitle": "subtitles.monster_roster.entity.vex.attack",
+    "sounds": [
+      "monster_roster:entity/vex/attack0",
+      "monster_roster:entity/vex/attack1"
+    ]
+  },
+  "entity.iron_golem.ambient": {
+    "subtitle": "subtitles.monster_roster.entity.iron_golem.ambient",
+    "sounds": [
+      "monster_roster:entity/iron_golem/idle0",
+      "monster_roster:entity/iron_golem/idle1",
+      "monster_roster:entity/iron_golem/idle2",
+      "monster_roster:entity/iron_golem/idle3"
+    ]
+  },
+  "item.armantis_scythe.attack": {
+    "sounds": [
+      "entity/player/attack/sweep1",
+      "entity/player/attack/sweep2",
+      "entity/player/attack/sweep3",
+      "entity/player/attack/sweep4",
+      "entity/player/attack/sweep5",
+      "entity/player/attack/sweep6",
+      "entity/player/attack/sweep7"
+    ],
+    "subtitle": "subtitles.monster_roster.item.armantis_scythe.attack"
+  }
+}

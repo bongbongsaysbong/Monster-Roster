@@ -1,0 +1,43 @@
+{
+  "entity.endermite.ambient": {
+    "replace": true,
+    "sounds": [
+      "monster_roster:entity/endermite/idle0",
+      "monster_roster:entity/endermite/idle1",
+      "monster_roster:entity/endermite/idle2"
+    ],
+    "subtitle": "subtitles.entity.endermite.ambient"
+  },
+  "entity.endermite.death": {
+    "replace": true,
+    "sounds": [
+      "monster_roster:entity/endermite/death0",
+      "monster_roster:entity/endermite/death1"
+    ],
+    "subtitle": "subtitles.entity.endermite.death"
+  },
+  "entity.endermite.hurt": {
+    "replace": true,
+    "sounds": [
+      "monster_roster:entity/endermite/hurt0",
+      "monster_roster:entity/endermite/hurt1",
+      "monster_roster:entity/endermite/hurt2"
+    ],
+    "subtitle": "subtitles.entity.endermite.hurt"
+  },
+  "entity.spider.ambient": {
+    "replace": true,
+    "sounds": [],
+    "subtitle": ""
+  },
+  "entity.spider.death": {
+    "replace": true,
+    "sounds": [],
+    "subtitle": ""
+  },
+  "entity.spider.hurt": {
+    "replace": true,
+    "sounds": [],
+    "subtitle": ""
+  }
+}

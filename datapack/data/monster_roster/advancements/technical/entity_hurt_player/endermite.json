@@ -1,0 +1,23 @@
+{
+  "parent": "monster_roster:technical/root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "damage": {
+          "source_entity": {
+            "type": "minecraft:endermite"
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "monster_roster:entity/endermite/hurt_player"
+  },
+  "requirements": [
+    [
+      "requirement"
+    ]
+  ]
+}

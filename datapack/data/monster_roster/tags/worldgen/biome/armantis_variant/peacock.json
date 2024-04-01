@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:jungle",
+    "minecraft:bamboo_jungle",
+    "minecraft:sparse_jungle",
+    "minecraft:savanna",
+    "minecraft:savanna_plateau",
+    "minecraft:windswept_savanna",
+    "minecraft:wooded_badlands",
+    {"id": "horizons:rainforest", "required": false},
+    {"id": "horizons:muddy_prairie", "required": false},
+    {"id": "horizons:painted_savanna", "required": false},
+    {"id": "blooming_biosphere:rainforest", "required": false}
+  ]
+}

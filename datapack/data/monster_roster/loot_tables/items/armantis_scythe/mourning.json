@@ -1,0 +1,117 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:warped_fungus_on_a_stick",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Unbreakable:1b,HideFlags:6,CustomModelData:8365004,monster_roster:{id:\"armantis_scythe\"},nucleus:{durability:[300,300],repaired:1b,prevent_striders:1b},sanguine:{allow_pus_repair:1b}}"
+            },
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:generic.attack_damage",
+                  "name": "armantis_scythe",
+                  "amount": 6,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                },
+                {
+                  "attribute": "minecraft:generic.attack_speed",
+                  "name": "armantis_scythe",
+                  "amount": -3,
+                  "operation": "addition",
+                  "slot": "mainhand"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "translate": "item.durability",
+                  "color": "gray",
+                  "italic": false,
+                  "with": [
+                    300,
+                    300
+                  ]
+                },
+                {
+                  "translate": "item.monster_roster.armantis_scythe.mourning",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "translate": "monster_roster.tooltip",
+                  "font": "monster_roster:tooltip",
+                  "color": "white",
+                  "italic": false,
+                  "with": [
+                    {"translate":"pack.monster_roster","font":"minecraft:default","color":"#802070","italic":true}
+                  ]
+                },
+                "",
+                {
+                  "translate": "item.monster_roster.armantis_scythe.description",
+                  "color": "#d19bc1",
+                  "italic": true,
+                  "with": [
+                    {"keybind":"key.use","color":"#e376d3"}
+                  ]
+                },
+                "",
+                {
+                  "translate": "item.modifiers.mainhand",
+                  "color": "gray",
+                  "italic": false
+                },
+                [
+                  " ",
+                  {
+                    "translate": "attribute.modifier.equals.0",
+                    "italic": false,
+                    "color": "dark_green",
+                    "with": [
+                      7,
+                      {
+                        "translate": "attribute.name.generic.attack_damage"
+                      }
+                    ]
+                  }
+                ],
+                [
+                  " ",
+                  {
+                    "translate": "attribute.modifier.equals.0",
+                    "italic": false,
+                    "color": "dark_green",
+                    "with": [
+                      1,
+                      {
+                        "translate": "attribute.name.generic.attack_speed"
+                      }
+                    ]
+                  }
+                ]
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "translate": "item.monster_roster.armantis_scythe",
+                "color": "white",
+                "italic": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

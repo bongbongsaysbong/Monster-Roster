@@ -1,0 +1,10 @@
+{
+   "pack":{
+      "pack_format": 22,
+      "description": [
+		{"text":"Monster Roster","color":"#802070"},
+		{"text":" | ","color":"#a1829c"},
+		{"text":"v0.1.0","color":"#e88bd4"}
+	  ]
+   }
+}

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#monster_roster:armantis_variant/wild",
+    "#monster_roster:armantis_variant/ghost",
+    "#monster_roster:armantis_variant/peacock",
+    "#monster_roster:armantis_variant/orchid",
+    "#monster_roster:armantis_variant/goldleaf"
+  ]
+}

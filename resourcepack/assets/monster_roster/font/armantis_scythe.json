@@ -1,0 +1,28 @@
+{
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+        " ": 4
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "monster_roster:gui/armantis_scythe/icon.png",
+      "ascent": 12,
+      "height": 15,
+      "chars": [
+        "01"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "monster_roster:gui/armantis_scythe/bar.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "A"
+      ]
+    }
+  ]
+}

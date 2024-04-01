@@ -1,0 +1,1 @@
+execute if entity @s[type=#monster_roster:additional_ambient_sounds,predicate=nucleus:chance/0.05,tag=!smithed.strict,nbt=!{Silent:1b}] run function monster_roster:entity/technical/sounds/vanilla_ambient

@@ -1,0 +1,11 @@
+{
+  "values": [
+    "minecraft:zombie",
+    "minecraft:skeleton",
+    "minecraft:wither_skeleton",
+    "minecraft:creeper",
+    "minecraft:piglin",
+    "minecraft:ender_dragon",
+    "minecraft:player"
+  ]
+}

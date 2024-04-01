@@ -1,0 +1,23 @@
+{
+  "parent": "monster_roster:technical/root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "damage": {
+          "source_entity": {
+            "type": "minecraft:vindicator"
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "monster_roster:entity/hurt_sounds/vindicator"
+  },
+  "requirements": [
+    [
+      "requirement"
+    ]
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "parent": "monster_roster:technical/root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:tropical_fish"
+          ],
+          "nbt": "{monster_roster:{id:\"burnt_grub\"}}"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "requirement"
+    ]
+  ],
+  "rewards": {
+    "function": "monster_roster:item/food/burnt_grub"
+  }
+}

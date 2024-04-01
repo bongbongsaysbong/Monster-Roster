@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    {"id": "minecraft:cherry_grove", "required": false},
+    "minecraft:flower_forest",
+    "minecraft:meadow"
+  ]
+}

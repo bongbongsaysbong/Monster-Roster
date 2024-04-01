@@ -1,0 +1,50 @@
+{
+  "parent": "minecraft:item/handheld_rod",
+  "textures": {
+    "layer0": "minecraft:item/warped_fungus_on_a_stick"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 8365000
+      },
+      "model": "monster_roster:item/armantis_scythe/wild"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8365001
+      },
+      "model": "monster_roster:item/armantis_scythe/ghost"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8365002
+      },
+      "model": "monster_roster:item/armantis_scythe/peacock"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8365003
+      },
+      "model": "monster_roster:item/armantis_scythe/goldleaf"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8365004
+      },
+      "model": "monster_roster:item/armantis_scythe/mourning"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8365005
+      },
+      "model": "monster_roster:item/armantis_scythe/monarch"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8365006
+      },
+      "model": "monster_roster:item/armantis_scythe/orchid"
+    }
+  ]
+}

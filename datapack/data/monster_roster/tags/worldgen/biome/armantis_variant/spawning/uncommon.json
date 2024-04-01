@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:plains",
+    "minecraft:sunflower_plains",
+    "minecraft:meadow",
+    "minecraft:savanna",
+    "minecraft:savanna_plateau",
+    "minecraft:windswept_savanna",
+    "minecraft:wooded_badlands",
+    {"id": "horizons:pumpkin_patch", "required": false},
+    {"id": "horizons:painted_savanna", "required": false},
+    {"id": "horizons:muddy_prairie", "required": false}
+  ]
+}

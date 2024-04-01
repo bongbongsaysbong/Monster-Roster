@@ -1,0 +1,3 @@
+execute if entity @s[type=minecraft:spider,predicate=monster_roster:entity/can_spawn_cave_spider] unless entity @a[gamemode=!creative,gamemode=!spectator,distance=..16] run function monster_roster:entity/technical/processing/cave_spider
+execute if entity @s[type=#monster_roster:receives_speed_boost] run attribute @s[nbt=!{IsBaby:1b}] minecraft:generic.movement_speed modifier add 8-3-79552-210506-100 speed 0.0275 add
+execute if entity @s[type=#monster_roster:receives_knockback_resistance] run attribute @s minecraft:generic.knockback_resistance modifier add 8-3-79552-210506-101 knockback 0.75 add

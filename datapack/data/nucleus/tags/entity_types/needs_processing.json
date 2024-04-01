@@ -1,0 +1,10 @@
+{
+    "values": [
+        "#monster_roster:receives_speed_boost",
+        "#monster_roster:receives_knockback_resistance",
+        "minecraft:creeper",
+        "minecraft:evoker",
+        "minecraft:vex",
+        "minecraft:piglin"
+    ]
+}
