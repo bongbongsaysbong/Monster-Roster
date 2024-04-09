@@ -46,11 +46,5 @@
 	"subtitles.monster_roster.item.armantis_scythe.attack": "Armantis Scythe swipes",
 
 	"death.attack.monster_roster.armantis": "%s was sliced by %s",
-	"death.attack.monster_roster.armantis.item": "%s was sliced by %s using %s",
-
-	"ui.monster_roster.when_eaten": "When Eaten:",
-
-	"settings.monster_roster.title": "Settings",
-	"settings.monster_roster.items": "Give item",
-	"settings.monster_roster.summon": "Summon mob"
+	"death.attack.monster_roster.armantis.item": "%s was sliced by %s using %s"
 }

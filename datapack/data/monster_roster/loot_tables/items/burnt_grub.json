@@ -9,7 +9,7 @@
           "functions": [
             {
               "function": "minecraft:set_nbt",
-              "tag": "{CustomModelData:8365001,monster_roster:{id:\"burnt_grub\"}}"
+              "tag": "{CustomModelData:8365001,monster_roster:{id:\"burnt_grub\"},manic:{sanity:\"neutral\"}}"
             },
             {
               "function": "minecraft:set_lore",

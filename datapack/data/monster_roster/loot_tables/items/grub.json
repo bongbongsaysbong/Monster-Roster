@@ -9,7 +9,7 @@
           "functions": [
             {
               "function": "minecraft:set_nbt",
-              "tag": "{CustomModelData:8365000,monster_roster:{id:\"grub\"}}"
+              "tag": "{CustomModelData:8365000,monster_roster:{id:\"grub\"},manic:{sanity:\"very_bad\"}}"
             },
             {
               "function": "minecraft:set_lore",
@@ -25,7 +25,7 @@
                 },
                 "",
                 {
-                  "translate": "ui.monster_roster.when_eaten",
+                  "translate": "item.nucleus.when_eaten",
                   "color": "gray",
                   "italic": false
                 },
